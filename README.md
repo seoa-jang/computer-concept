@@ -1,10 +1,12 @@
 # computer-concept-
 explaining the basic concepts of computer
 
-<b>How does the internet work?<b>
-<b>What is HTTP?<b>
-<b>Browsers and how they work?<b>
-
-<b>DNS and how it works?<b>
-<b>What is Domain Name?<b>
-<b>What is hosting?<b>
+<ul>  
+   <li><b>How does the internet work?<b></li>
+   <li><b>What is HTTP?<b></li>
+   <li><b>Browsers and how they work?</li><b>
+    
+   <li><b>DNS and how it works?<b></li>
+   <li><b>What is Domain Name?<b></li>
+   <li><b>What is hosting?<b></li>
+</ul>
