@@ -1,6 +1,6 @@
 # computer-concept-
 explaining the basic concepts of computer
-
+http://www.theshulers.com/whitepapers/internet_whitepaper/index.html#stack
 <ul>  
    <li><b>How does the internet work?<b></li>
    <li><b>What is HTTP?<b></li>
